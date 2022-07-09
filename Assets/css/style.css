@@ -1,6 +1,6 @@
 body {
-    font-family: inter;
-}
+font-family: inter;
+} 
 .navbar div{
     text-align: center;
     font-family: inter;
@@ -111,8 +111,24 @@ body {
     background-image: url(Images/image1.png);
 }
 #communication {
-    height: 200px;
+    height: 250px;
     float: right;
 }
-
+.whywe {
+    font-weight: 800;
+    font-size: 30px;
+    margin-left: 3%;
+    margin-bottom: 2%;
+    margin-top: 13%;
+}
+.whywe u {
+    text-decoration-color: #ED661F;
+}
+.wehave {
+    margin-left: 3%;
+    font-size: 15px;
+    padding-right: 5%;
+    width: 380px;
+    font-weight: 400;
+}
 
