@@ -262,6 +262,43 @@ font-family: inter;
     float: right;
     margin-right: 8%
 }
-
-
-
+#chichi, #waffle, #sssh {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+#chichi {
+    margin-top: 17%;
+    font-weight: 700;
+}
+#ch {
+    margin-right: 23%;
+    margin-left: 2%;
+}
+#hr {
+    margin-right: 16%;
+}
+#mu {
+    margin-right: 19%;
+}
+#waf {
+    margin-left: 2%;
+    margin-right: 21%;
+}
+#her {
+    margin-right: 10.5%;
+}
+#kor {
+    margin-right: 11.5%;
+}
+#kash {
+    margin-left: 2.5%;
+    margin-right: 22.5%;
+}
+#bash {
+    margin-right: 16.5%;
+}
+#shsh {
+    margin-right: 16%;
+}
