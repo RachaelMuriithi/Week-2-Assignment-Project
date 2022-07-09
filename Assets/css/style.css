@@ -42,8 +42,22 @@
    padding-bottom: 15px;
    padding-left: 20px;
    padding-right: 20px;
-   margin-bottom: 1%;
-
+   margin-bottom: 1%;   
+}
+.backgroundimage {
+    font-family: inter;
+    /* height: 200px; */
+    /* width: 200px; */
+    background-image: url(Assets/Images/image 1.png height: 400px; width: 400px;);       
+}
+.backgroundimage img {
+    height: 300px;
+    float: right;
+}
+.backgroundimage .buy{
+    font-size: 40px;
+    font-weight: 900;
+    padding-top: 100px;
    
-   
+    
 }
