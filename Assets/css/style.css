@@ -188,6 +188,16 @@ font-family: inter;
     margin-left: 2%;
     font-weight: 800;
 }
+#ca {
+    margin-right: 18%;
+}
+#cr {
+    margin-right: 20%;
+}
+#fu {
+    margin-right: 13.5%;
+}
+
 #kinyanjui {
     list-style: none;
     display: flex;
@@ -196,15 +206,14 @@ font-family: inter;
 }
 #ki {
     margin-left: 2%;
-    margin-right: 5%;
+    margin-right: 7.5%;
 }
 #ke {
     margin-left: 1%;
-    margin-right: 13%;
+    margin-right: 12%;
 }
 #mr {
-    margin-right: 19%;
-
+    margin-right: 18%;
 }
 
 #ksh {
@@ -213,6 +222,15 @@ font-family: inter;
     flex-direction: row;
     justify-content: left;
     margin-left: 2%;
+}
+#kg {
+    margin-right: 19%;
+}
+#ba {
+    margin-right: 19%;
+}
+#sh {
+    margin-right: 17%;
 }
 
 
