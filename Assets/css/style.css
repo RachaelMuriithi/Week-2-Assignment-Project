@@ -149,7 +149,7 @@ font-family: inter;
 }
 .mostp {
     margin-left: 5%;
-    font-size: 23px;
+    font-size: 24px;
     font-weight: 800;
     margin-bottom: 3%;
 }
@@ -222,6 +222,7 @@ font-family: inter;
     flex-direction: row;
     justify-content: left;
     margin-left: 2%;
+    margin-bottom: 5%;
 }
 #kg {
     margin-right: 19%;
@@ -231,6 +232,35 @@ font-family: inter;
 }
 #sh {
     margin-right: 17%;
+}
+#tomato {
+    height: 200px;
+    float: right;
+    margin-right: 3%;   
+}
+.new {
+    margin-left: 5%;
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 3%;
+}
+.new u {
+    text-decoration-color: #ED661F;
+}
+#mursik {
+    height: 200px;
+    float: right;
+    margin-right: 4%
+}
+#ahero {
+    height: 200px;
+    float: right;
+    margin-right: 4%
+}
+#chicken {
+    height: 200px;
+    float: right;
+    margin-right: 8%
 }
 
 
