@@ -1,0 +1,30 @@
+.logo {
+    font-weight: 900;
+    font-size: 22px;
+    font-family: inter;
+    color: white;
+    padding-right: 10%;
+    
+}
+.flexbox {
+    display: flex; 
+    background-color: black;
+    height: 80px;
+    box-sizing: border-box;
+    padding-left: 2%;
+    padding-top: 3%
+}
+.navbar {
+    color: white;
+    display: inline; 
+    font-family: inter;
+    font-size: 10px;
+    font-weight: 700;
+    padding: 10px;
+    align-items: center;   
+}
+.navbar div{
+    display: inline;
+    font-display: inline block;
+
+}
