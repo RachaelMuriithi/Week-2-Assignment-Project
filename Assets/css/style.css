@@ -179,7 +179,41 @@ font-family: inter;
     height: 200px;
     margin-bottom: 3%;
     margin-left: 5%;
+}
+#fresh {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    margin-left: 2%;
+    font-weight: 800;
+}
+#kinyanjui {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+#ki {
+    margin-left: 2%;
+    margin-right: 5%;
+}
+#ke {
+    margin-left: 1%;
+    margin-right: 13%;
+}
+#mr {
+    margin-right: 19%;
 
 }
+
+#ksh {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    margin-left: 2%;
+}
+
 
 
