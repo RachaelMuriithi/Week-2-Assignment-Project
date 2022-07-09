@@ -135,7 +135,7 @@ font-family: inter;
 .ourcate {
     font-weight: 800;
     text-align: center;
-    font-size: 28px;
+    font-size: 23px;
     margin-bottom: 3%;
 }
 .ourcate u {
@@ -144,7 +144,40 @@ font-family: inter;
 .wegobeyond {
     font-weight: 300;
     width: 450px;
-    margin-left: 30%;
+    margin-left: 35%;
+    margin-bottom: 3%;
+}
+.mostp {
+    margin-left: 5%;
+    font-size: 23px;
+    font-weight: 800;
+    margin-bottom: 3%;
+}
+.mostp u {
+    text-decoration-color: #ED661F;
+}
+#kales {
+    height: 200px;
+    float: right;
+    margin-left: 6%;
+    margin-right: 3%;
+    margin-bottom: 3%;
+}
+#tilapia {
+    height: 200px;
+    float: right;
+    margin-left: 6%;
+    margin-bottom: 3%;
+}
+#cereal {
+    height: 200px;
+    float: right;
+    margin-left: 6%;
+    margin-bottom: 3%;
+}
+#carrots {
+    height: 200px;
+    margin-bottom: 3%;
 
 }
 
