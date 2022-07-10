@@ -292,6 +292,9 @@ font-family: inter;
 #kor {
     margin-right: 11.5%;
 }
+#sssh {
+    margin-bottom: 5%;
+}
 #kash {
     margin-left: 2.5%;
     margin-right: 22.5%;
@@ -301,4 +304,51 @@ font-family: inter;
 }
 #shsh {
     margin-right: 16%;
+}
+.arrow {
+    box-sizing: border-box;
+    height: 5vw;
+    width: 5vw;
+    border-style: solid;
+    border-color: white;
+    border-width: 0px 1px 1px 0px;
+    transform: rotate(45deg);
+}
+#arrow {
+    height: 50px;
+    width: 500px;
+    float: right;
+    margin-right: 0%%;
+    border-style: groove;
+}
+.see {
+    font-weight: 800;
+    font-size: 20px;
+    display: inline-block;
+    float: right;
+    margin-right: 5%;
+}
+.see u {
+    text-decoration-color: #ED661F;
+}
+.flexi {
+    margin-top: 7%;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    font-weight: 600;
+}
+.mosteffi {
+    margin-left: 3%;
+    width: 150px;
+    background-image: url(Assets/Images/ratingfourstar.png)
+}
+.theplace {
+    width: 150px;
+    background-image: url(Assets/Images/ratingfivestar.png);
+}
+.connect {
+    margin-right: 3%;
+    width: 150px;
+    background-image: url(ratingfivestar.png);
 }
