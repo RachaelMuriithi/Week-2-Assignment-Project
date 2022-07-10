@@ -1,12 +1,15 @@
 Portfolio By Muriithi Rachael 
 
-Description of my resume. Table of Content Description 
+Description of my resume. 
+
+Table of Content Description 
+
 Installation Requirement Technology
 
  Used Reference Licence Authors Info Description 
 
  This website was created using html. 
- 
+
  It is an agricultural e-commerce website.
 
 Requirements Either a computer,phone,tablet or an Ipad
