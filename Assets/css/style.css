@@ -51,36 +51,37 @@ font-family: inter;
    padding-right: 20px;
    margin-bottom: 1%;   
 }
-.backgroundimage {
-    height: 550px;
-    width: 1200px
+.backg {
+    height: 600px;
+    width: 1200px%;
+    padding: 3%;
 }
-.backgroundimage {
+.backg {
     background-image: url(../Images/background.png); 
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
- .backgroundimage {
+.backg {
     margin-left: 3%;     
 }
-.backgroundimage img {
+.backg img {
     height: 300px;
     float: right;
 }
-.backgroundimage .buy{
+.backg .buy{
     font-size: 50px;
     font-weight: 1000;
     padding-top: 70px;
     margin-bottom: 1%;
         
 }
-.backgroundimage .agri {
+.backg .agri {
     width: 550px;
     font-size: 19px;
     margin-bottom: 2%;  
 }
-.backgroundimage .explore a {
+.backg .explore a {
     font-weight: 900;
     display: inline-block;
     padding: 25px;
@@ -89,54 +90,48 @@ font-family: inter;
     color: white; 
     margin-bottom: 4%; 
     text-decoration: #ED661F;
-}
+} 
 .verified {
     width: 500px;
     font-size: 14px;
     text-align: center;
     font-weight:550;
-    height: 80px;
+    height: 100px;
     display: inline-block;
-    padding-left: 20%;
-    padding-top: 3%;
-    padding-right: 3%;
     float: right;
-    margin-right: 10%;
+    margin-right: 7%;
     background-color: white;
-    margin-left: 10%;
-    padding-bottom: 6%;
+    margin-left: 25%;
+    margin-top: 9%;
+    margin-bottom: 10%;
 
 }
 .verified .w20 {
     display: flex;
     flex-direction: row;
-    justify-content: space-around; 
-    margin-bottom: 3%;
+    justify-content: space-evenly;
+    margin-top: 10%;
+    
     
 }
-
 .verified .v20 {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-evenly;
     
 }
-.backgroundimage {
-    background-image: url(Images/image1.png);
+#communication { 
+    height: 250px; float: right;
 }
-#communication {
-    height: 250px;
-    float: right;
+.whywe { 
+    font-weight: 800; 
+    font-size: 30px; 
+    margin-left: 5%; 
+    margin-bottom: 2%; 
+    margin-top: 12%;
 }
-.whywe {
-    font-weight: 800;
-    font-size: 30px;
-    margin-left: 5%;
-    margin-bottom: 2%;
-    margin-top: 13%;
-}
-.whywe u {
-    text-decoration-color: #ED661F;
+.whywe u { 
+    text-decoration-color: #ED661F; 
     text-decoration-thickness: 3px;
 }
 .wehave {
@@ -180,12 +175,6 @@ font-family: inter;
     margin-right: 3%;
     margin-bottom: 3%;
 }
-#tilapia {
-    height: 200px;
-    float: right;
-    margin-left: 5%;
-    margin-bottom: 3%;
-}
 #cereal {
     height: 200px;
     float: right;
@@ -213,8 +202,12 @@ font-family: inter;
 }
 #fu {
     margin-right: 13.5%;
+}#tilapia {
+    height: 200px;
+    float: right;
+    margin-left: 5%;
+    margin-bottom: 3%;
 }
-
 #kinyanjui {
     list-style: none;
     display: flex;
@@ -597,5 +590,4 @@ font-family: inter;
     margin-left: 5%;
     font-weight: 600;
     font-size: 17px;
-
-} */
+}
