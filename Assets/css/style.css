@@ -391,7 +391,7 @@ font-family: inter;
 .ter {
     display: inline;
     margin-right: 0%;
-    padding-bottom: 0.78%;
+    padding-bottom: 0.77%;
     padding-top: 0.7%;
     font-size: 13px;
     color: black;
@@ -399,4 +399,75 @@ font-family: inter;
     text-align: center;
     width: 200px;
     float: right;
+}
+.parent {
+    height: 400px;
+    background-color: black;
+    color: white;
+}
+.others {
+    font-weight: 600;
+    font-size: 25px;
+    display: inline-block;
+    float: right;
+    margin-right: 10%;
+    margin-top: 4%;
+}
+.products {
+    display: inline;
+    font-size: 25px;
+    font-weight: 700;
+    float: right;
+    margin-top: 4%;
+    margin-right: 12%;
+}
+.company {
+    display: inline;
+    font-size: 25px;
+    font-weight: 700;
+    float: right;
+    margin-top: 4%;
+    margin-right: 12%;
+}
+.agp {
+    display: inline;
+    font-size: 40px;
+    font-weight: 700;
+    float: right;
+    margin-top: 3%;
+    margin-right: 25%;
+}
+.faqs {
+    font-weight: 600;
+    font-size: 18px;
+    display: inline-block;
+    float: right;
+    margin-right: 13%;
+    margin-top: 3%;
+}
+.dairy {
+    font-weight: 600;
+    font-size: 17px;
+    display: inline-block;
+    float: right;
+    margin-right: 17%;
+    margin-top: 3%;
+}
+.about {
+    font-weight: 600;
+    font-size: 17px;
+    display: inline-block;
+    float: right;
+    margin-right: 17%;
+    margin-top: 3%;
+}
+.quality {
+    display: inline;
+    font-size: 15px;
+    font-weight: 700;
+    float: right;
+    margin-top: 2%;
+    margin-right: 23%;
+    width: 200px;
+    margin-left: 3%;
 }
