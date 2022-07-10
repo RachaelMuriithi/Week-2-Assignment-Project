@@ -45,9 +45,6 @@ Linkedin Profile - [Rachael Muriithi]()
 Slack Profile - [Rachael-Muriithi]()
 
 
-
-I
-
  
 
 
