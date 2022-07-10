@@ -337,6 +337,7 @@ font-family: inter;
     flex-direction: row-reverse;
     justify-content: space-between;
     font-weight: 600;
+    margin-bottom: 5%;
 }
 .mosteffi {
     margin-left: 3%;
@@ -351,4 +352,16 @@ font-family: inter;
     margin-right: 3%;
     width: 150px;
     background-image: url(ratingfivestar.png);
+}
+.wed {
+    background-color: black;
+    margin-top: 12%;
+    height: 100px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 4%;
+    padding-bottom: 4%;
 }
