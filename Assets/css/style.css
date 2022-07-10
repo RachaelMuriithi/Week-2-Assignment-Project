@@ -32,8 +32,12 @@ font-family: inter;
 .navbar .h1 {
     margin-right: 1.5%;
 } 
+.h1 u {
+    text-decoration-color: #ED661F;
+    text-decoration-thickness: 3px;
+}
 .contactus{
-    margin-right: 28%;  
+    margin-right: 26%;  
 }
 .login {
     padding-right: 3%;
@@ -48,7 +52,17 @@ font-family: inter;
    margin-bottom: 1%;   
 }
 .backgroundimage {
-    margin-left: 6%;     
+    height: 550px;
+    width: 1200px
+}
+.backgroundimage {
+    background-image: url(../Images/background.png); 
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+ .backgroundimage {
+    margin-left: 3%;     
 }
 .backgroundimage img {
     height: 300px;
@@ -123,6 +137,7 @@ font-family: inter;
 }
 .whywe u {
     text-decoration-color: #ED661F;
+    text-decoration-thickness: 3px;
 }
 .wehave {
     margin-left: 5%;
@@ -140,6 +155,7 @@ font-family: inter;
 }
 .ourcate u {
     text-decoration-color: #ED661F;
+    text-decoration-thickness: 3px;
 }
 .wegobeyond {
     font-weight: 300;
@@ -155,6 +171,7 @@ font-family: inter;
 }
 .mostp u {
     text-decoration-color: #ED661F;
+    text-decoration-thickness: 3px;
 }
 #kales {
     height: 200px;
@@ -213,7 +230,7 @@ font-family: inter;
     margin-right: 12%;
 }
 #mr {
-    margin-right: 18%;
+    margin-right: 19%;
 }
 
 #ksh {
@@ -228,7 +245,7 @@ font-family: inter;
     margin-right: 19%;
 }
 #ba {
-    margin-right: 19%;
+    margin-right: 18.5%;
 }
 #sh {
     margin-right: 17%;
@@ -246,6 +263,7 @@ font-family: inter;
 }
 .new u {
     text-decoration-color: #ED661F;
+    text-decoration-thickness: 3px;
 }
 #mursik {
     height: 200px;
@@ -330,9 +348,10 @@ font-family: inter;
 }
 .see u {
     text-decoration-color: #ED661F;
+    text-decoration-thickness: 3px;
 }
 .flexi {
-    margin-top: 7%;
+    margin-top: 3%;
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-between;
@@ -340,18 +359,16 @@ font-family: inter;
     margin-bottom: 5%;
 }
 .mosteffi {
-    margin-left: 3%;
+    margin-left: 5%;
     width: 150px;
-    background-image: url(Assets/Images/ratingfourstar.png)
 }
 .theplace {
     width: 150px;
-    background-image: url(Assets/Images/ratingfivestar.png);
 }
+
 .connect {
-    margin-right: 3%;
+    margin-right: 24%;
     width: 150px;
-    background-image: url(ratingfivestar.png);
 }
 .wed {
     background-color: black;
@@ -360,7 +377,7 @@ font-family: inter;
     color: white;
     padding-top: 4%;
     padding-bottom: 4%;
-    margin-bottom: 1%;
+    margin-bottom: 0.5%;
 }
 .clear {
     display: flex;
@@ -401,7 +418,7 @@ font-family: inter;
     float: right;
 }
 .parent {
-    height: 400px;
+    height: 500px;
     background-color: black;
     color: white;
 }
@@ -410,7 +427,7 @@ font-family: inter;
     font-size: 25px;
     display: inline-block;
     float: right;
-    margin-right: 10%;
+    margin-right: 15%;
     margin-top: 4%;
 }
 .products {
@@ -435,14 +452,14 @@ font-family: inter;
     font-weight: 700;
     float: right;
     margin-top: 3%;
-    margin-right: 25%;
+    margin-right: 20%;
 }
 .faqs {
     font-weight: 600;
     font-size: 18px;
     display: inline-block;
     float: right;
-    margin-right: 13%;
+    margin-right: 18%;
     margin-top: 3%;
 }
 .dairy {
@@ -466,8 +483,119 @@ font-family: inter;
     font-size: 15px;
     font-weight: 700;
     float: right;
-    margin-top: 2%;
-    margin-right: 23%;
+    margin-top: 3%;
+    margin-right: 18%;
     width: 200px;
     margin-left: 3%;
 }
+.terms {
+    font-weight: 600;
+    font-size: 18px;
+    display: inline-block;
+    float: right;
+    margin-right: 10%;
+    margin-top: 2%;
+}
+.cc {
+    font-weight: 600;
+    font-size: 18px;
+    display: inline-block;
+    float: right;
+    margin-right: 15%;
+    margin-top: 2%;
+}
+.product {
+    font-weight: 600;
+    font-size: 18px;
+    display: inline-block;
+    float: right;
+    margin-right: 14%;
+    margin-top: 3%;
+    margin-left: 20%
+}
+.privacy {
+    font-weight: 600;
+    font-size: 18px;
+    display: inline-block;
+    float: right;
+    margin-right: 10%;
+    margin-top: 2%;
+    
+}
+.vegetables {
+    font-weight: 600;
+    font-size: 18px;
+    display: inline-block;
+    float: right;
+    margin-right: 6.5%;
+    margin-top: 2%;
+}
+.contact {
+    font-weight: 600;
+    font-size: 18px;
+    display: inline-block;
+    float: right;
+    margin-right: 13%;
+    margin-top: 2%;
+}
+.iconss {
+    font-weight: 600;
+    font-size: 18px;
+    display: inline-block;
+    float: right;
+    margin-right: 26%;
+    margin-top: 1.5%;
+}
+.more {
+    font-weight: 600;
+    font-size: 18px;
+    display: inline-block;
+    float: right;
+    margin-right: 36.5%;
+    margin-top: 2%;
+}
+.gettheapp {
+    font-weight: 600;
+    font-size: 23px;
+    display: inline-block;
+    margin-right: 36.5%;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+#socialmedia {
+    width: 100px;
+}
+#appstore {
+    width: 200px;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+#fstar {
+    width: 300px;
+    margin-top: 2%;
+    margin-right: 3%;
+    
+}
+#fourstar {
+    width: 300px;
+    margin-top: 2%;
+    margin-right: 6.5%;
+    margin-left: 2%;
+}
+#fistar {
+    width: 300px;
+    margin-top: 2%;
+    margin-left: %;
+}
+#today {
+    background-color: rgb(235, 222, 222);
+    height: 10px;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+.empty {
+    margin-left: 5%;
+    font-weight: 600;
+    font-size: 17px;
+
+} */
